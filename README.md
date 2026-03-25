@@ -92,7 +92,7 @@ dart run
 
 ## 👨‍💻 Author
 
-**Ziyad Mohamed**
+**Ziyad-Mohamed**
 
 ---
 
